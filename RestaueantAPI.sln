@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaueantAPI", "RestaueantAPI\RestaueantAPI.csproj", "{EFADB198-AFCA-4EC8-8A51-C87C2A6A1DB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFADB198-AFCA-4EC8-8A51-C87C2A6A1DB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFADB198-AFCA-4EC8-8A51-C87C2A6A1DB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFADB198-AFCA-4EC8-8A51-C87C2A6A1DB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFADB198-AFCA-4EC8-8A51-C87C2A6A1DB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40235E9C-F9C8-43F6-A4ED-EB553680E1E2}
+	EndGlobalSection
+EndGlobal
